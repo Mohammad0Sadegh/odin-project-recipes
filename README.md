@@ -4,4 +4,4 @@ I want to create a simple website and later edit it...
 
 
 
-https://www-69shuba-pro.translate.goog/txt/9957371/90161171?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+https://translate.google.com/translate?sl=zh-CN&tl=en&hl=en-US&u=https://www.69shuba.pro/book/9959419.htm&client=webapp
