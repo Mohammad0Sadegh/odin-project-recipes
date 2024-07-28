@@ -6,4 +6,4 @@ I want to create a simple website and later edit it...
 
 
 
-https://69shuba.cx/book/35090.htm
+https://69shuba-cx.translate.goog/txt/35090/24530080?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
