@@ -5,4 +5,4 @@ I want to create a simple website and later edit it...
 
 
 
-https://repo.radeon.com/amdgpu-install/6.1.3/ubuntu/focal/amdgpu-install_6.1.60103-1_all.deb
+https://www.amd.com/en/support/download/linux-drivers.html
