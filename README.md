@@ -5,6 +5,4 @@ I want to create a simple website and later edit it...
 
 
 
-
-
-https://69shuba-cx.translate.goog/book/51210.htm?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+https://repo.radeon.com/amdgpu-install/6.1.3/ubuntu/focal/amdgpu-install_6.1.60103-1_all.deb
