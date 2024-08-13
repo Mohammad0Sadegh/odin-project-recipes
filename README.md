@@ -6,4 +6,4 @@ I want to create a simple website and later edit it...
 
 
 Next Chapter
-https://translate.google.com/translate?sl=zh-CN&tl=en&hl=en-US&u=https://m.yawen.cc/mofa/221736/17246110.html&client=webapp
+https://69shuba-cx.translate.goog/txt/51461/33614783?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
