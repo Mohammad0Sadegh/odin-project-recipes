@@ -6,4 +6,4 @@ I want to create a simple website and later edit it...
 
 
 Next Chapter
-<p>https://69shu.me/book/54583.htm</p>
+<p>https://69shu.me/book/52886.htm</p>
