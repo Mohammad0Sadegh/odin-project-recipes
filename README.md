@@ -10,4 +10,4 @@ Next Chapter
 <p>https://69shu.me/txt/44836/30120803 broken </p>
 <p>https://69shu.me/txt/47125/31440016 broken </p>
 
-<p>https://t.hjwzw.com/Book/37338</p>
+<p>https://t.hjwzw.com/Book/39422</p>
