@@ -13,3 +13,4 @@ Next Chapter
 <p>https://t.hjwzw.com/Read/5242_942461</p>
 
 <p>https://69shuba.cx/book/80661.htm</p>
+<p>https://69shuba.cx/book/53525.htm</p>
