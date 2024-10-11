@@ -14,3 +14,4 @@ Next Chapter
 
 <p>https://69shuba.cx/book/80661.htm</p>
 <p>https://69shuba.cx/book/53525.htm</p>
+<p>https://69shuba.cx/book/77226.htm</p>
